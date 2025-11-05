@@ -25,7 +25,7 @@ export function Footer() {
   };
 
   const handleEmailContact = () => {
-    window.location.href = "mailto:secure4587@gmail.com";
+    window.location.href = "mailto:Info@bksecuritygy.com";
   };
 
   const scrollToSection = (sectionId: string) => {
@@ -247,7 +247,7 @@ export function Footer() {
                     onClick={handleEmailContact}
                     className="text-blue-400 hover:text-blue-300 transition-colors"
                   >
-                    secure4587
+                    Info@bksecuritygy.com
                   </button>
                   <p className="text-xs text-gray-400">General Inquiries</p>
                 </div>

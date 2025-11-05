@@ -49,7 +49,7 @@ export function Header() {
   };
 
   const handleEmailContact = () => {
-    window.location.href = "mailto:secure4587@gmail.com";
+    window.location.href = "mailto:Info@bksecuritygy.com";
   };
 
   const navigationItems = [
@@ -232,7 +232,7 @@ export function Header() {
                     className="w-full"
                   >
                     <Mail className="h-4 w-4 mr-2" />
-                    secure4587
+                    Info@bksecuritygy.com
                   </Button>
                 </div>
 

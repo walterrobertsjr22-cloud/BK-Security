@@ -47,7 +47,7 @@ export function ContactSection() {
   };
 
   const handleEmailContact = () => {
-    window.location.href = "mailto:secure4587";
+    window.location.href = "mailto:Info@bksecuritygy.com";
   };
 
   const handleInputChange = (field: keyof ContactFormData, value: string) => {
@@ -315,7 +315,7 @@ export function ContactSection() {
                       onClick={handleEmailContact}
                       className="text-blue-600 hover:text-blue-700 font-medium"
                     >
-                      secure4587
+                      Info@bksecuritygy.com
                     </button>
                     <p className="text-sm text-gray-600">Response within 2 hours</p>
                   </div>

@@ -15,7 +15,7 @@ export function HeroSection() {
   };
 
   const handleEmailContact = () => {
-    window.location.href = "mailto:secure4587@gmail.com";
+    window.location.href = "mailto:Info@bksecuritygy.com";
   };
 
   const scrollToContact = () => {
